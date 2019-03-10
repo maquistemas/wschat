@@ -1,0 +1,25 @@
+1)Generar el package json
+npm init
+
+2) Instalar express
+npm install express --save
+
+3) Instalar socket.io
+npm install socket.io --save
+
+4) Instalar nodemon
+npm install nodemon --save-dev
+
+5)Agregar a package.json en scripts:
+"start": "nodemon server/index.js",
+
+
+--------------------------------
+Iniciar el servidor
+npm start
+
+
+
+
+
+
